@@ -1,8 +1,6 @@
 # My-Current-Home-Lab
 
-This is a picture of my current home lab setup.
-
-My Current Homelab:
+This is a picture and description of my current home lab setup:
 
 UDM SE, USW Aggregator, USW Pro 24, UNVR (Mac Mini for Music Production), Dell OptiPlex with External Drive in RAID Mode (Plex Server), Synology NAS, Dell Edge T40 (Windows Server 2019), and a Dell Precision T780 (VMware ESXi v8.x).
 
